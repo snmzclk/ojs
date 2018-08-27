@@ -69,9 +69,9 @@
 	<message key="editor.issues.removeCoverImageFileNameMismatch">Silmek istediğiniz kapak resmi ile eşleşme sağlanamadı. Lütfen sayfayı yenileyin ve tekrar deneyin.</message>
 	<message key="editor.issues.removeCoverImageFileNotFound">Silmek istediğiniz kapak resmi bulunamadı. Silinmiş olabilir. Sayfayı yenilemeyi deneyin.</message>
 	<message key="editor.issues.invalidCoverImageFormat">Geçersiz kapak sayfası biçimi. Kabul edilebilir biçimler: .gif, .jpg veya .png.</message>
-	<message key="editor.issues.styleFile">Sayfa Sitili</message>
+	<message key="editor.issues.styleFile">Sayfa Biçimi</message>
 	<message key="editor.issues.invalidStyleFormat">Uygunsuz sayfa sitil dosyası. Gönderdiğiniz dosyanın geçerli bir biçimlendirme dosyası olduğundan emin olunuz (CSS). (Note: Başlangıcında yorumlar olan biçimlendirme dosyaları reddedilebilir.)</message>
-	<message key="editor.issues.removeStyleFile">Sayfa Stilini Kaldır?</message>
+	<message key="editor.issues.removeStyleFile">Sayfa Biçimini Kaldır?</message>
 	<message key="editor.issues.coverPageCaption">Kapak başlığı</message>
 	<message key="editor.issues.showCoverPage">Bu sayı için aşağıdaki öğeler ile bir kapak oluşturunuz.</message>
 	<message key="editor.issues.coverPageDisplay">Görüntüle</message>
@@ -113,10 +113,10 @@
 	<message key="editor.navigation.futureIssues">Gelecek Sayılar</message>
 	<message key="grid.action.addGalley">Dizgiye Ekle</message>
 	<message key="grid.action.publish">Sayıyı Yayınla</message>
-	<message key="grid.action.addIssue">Yeni Sayı Yarat</message>
+	<message key="grid.action.addIssue">Yeni Sayı Oluştur</message>
 	<message key="grid.action.viewIssue">Bakış</message>
 	<message key="grid.action.previewIssue">Önizleme</message>
-	<message key="grid.action.addIssueGalley">Sayı Dizgisi Yarat</message>
+	<message key="grid.action.addIssueGalley">Sayı Dizgisi Oluştur</message>
 	<message key="grid.action.setCurrentIssue">Güncel Sayı Belirle</message>
 	<message key="editor.navigation.issueArchive">Önceki Sayılar</message>
 	<message key="editor.article.designateReviewVersion">Orjinal dosyayı Değerlendirme Sürümü olarak belirle</message>
